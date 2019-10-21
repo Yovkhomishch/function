@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ac2c7ee-af24-4eeb-97c7-e3c555961f3d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/kurs$Up7.coverage" NAME="Up7 Coverage Results" MODIFIED="1551293818639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/kurs$Field.coverage" NAME="Field Coverage Results" MODIFIED="1551438655631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/kurs$Main.coverage" NAME="Main Coverage Results" MODIFIED="1552215254639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/kurs$DirPan.coverage" NAME="DirPan Coverage Results" MODIFIED="1547408118367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="711" />
+    <option name="y" value="45" />
+    <option name="width" value="619" />
+    <option name="height" value="703" />
+  </component>
+  <component name="ProjectId" id="1SV8YTgPEwVy5JNteMHr1NXEwQG" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>XML</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Field" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Field" />
+      <module name="function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test3" />
+      <module name="function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Up7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Up7" />
+      <module name="function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Up7" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Field" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Test3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Field" />
+        <item itemvalue="Application.Up7" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ac2c7ee-af24-4eeb-97c7-e3c555961f3d" name="Default" comment="" />
+      <created>1547119218476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547119218476</updated>
+      <workItem from="1547119224871" duration="4627000" />
+      <workItem from="1547155279165" duration="2593000" />
+      <workItem from="1547195767559" duration="5222000" />
+      <workItem from="1547235265136" duration="3955000" />
+      <workItem from="1547397823777" duration="567000" />
+      <workItem from="1547398448136" duration="4100000" />
+      <workItem from="1547404406086" duration="11371000" />
+      <workItem from="1547421263872" duration="2067000" />
+      <workItem from="1547494910877" duration="124000" />
+      <workItem from="1547495309777" duration="5128000" />
+      <workItem from="1548685199840" duration="5550000" />
+      <workItem from="1548930370173" duration="1299000" />
+      <workItem from="1548932317556" duration="21284000" />
+      <workItem from="1549180524366" duration="785000" />
+      <workItem from="1549390590800" duration="132000" />
+      <workItem from="1549813123839" duration="635000" />
+      <workItem from="1549887164250" duration="8132000" />
+      <workItem from="1550396042575" duration="2181000" />
+      <workItem from="1550559936353" duration="8637000" />
+      <workItem from="1550924283021" duration="713000" />
+      <workItem from="1550925213527" duration="15489000" />
+      <workItem from="1550998444100" duration="2216000" />
+      <workItem from="1551094350989" duration="73000" />
+      <workItem from="1551290984796" duration="16112000" />
+      <workItem from="1551595430484" duration="25162000" />
+      <workItem from="1551814088978" duration="16948000" />
+      <workItem from="1551946287471" duration="12727000" />
+      <workItem from="1552150899643" duration="2447000" />
+      <workItem from="1552207630750" duration="962000" />
+      <workItem from="1552208763569" duration="1272000" />
+      <workItem from="1552210270324" duration="5529000" />
+      <workItem from="1552249475655" duration="186000" />
+      <workItem from="1552313565707" duration="701000" />
+      <workItem from="1552466731306" duration="1211000" />
+      <workItem from="1552741341186" duration="200000" />
+      <workItem from="1552908444284" duration="707000" />
+      <workItem from="1552910958931" duration="1218000" />
+      <workItem from="1552920124483" duration="8294000" />
+      <workItem from="1552931122324" duration="2304000" />
+      <workItem from="1553011205802" duration="1182000" />
+      <workItem from="1553337266143" duration="460000" />
+      <workItem from="1553364946144" duration="160000" />
+      <workItem from="1554476498081" duration="50000" />
+      <workItem from="1554476595961" duration="29000" />
+      <workItem from="1554476654830" duration="32000" />
+      <workItem from="1554674410827" duration="67000" />
+      <workItem from="1554674500697" duration="7000" />
+      <workItem from="1554730374216" duration="69000" />
+      <workItem from="1561014992178" duration="63000" />
+      <workItem from="1561572466662" duration="4000" />
+      <workItem from="1562053774128" duration="246000" />
+      <workItem from="1571637451632" duration="529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
